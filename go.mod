@@ -1,4 +1,4 @@
-module clusterazadm
+module github.com/dlipovetsky/clusterazadm
 
 go 1.16
 
